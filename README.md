@@ -5,9 +5,9 @@ This application allows you to control your computer's mouse cursor and perform 
 ## Features
 
 - Move cursor using your index finger
-- Click by raising your pinky finger
-- Open Notepad by snapping your thumb and middle finger together
-- Switch tabs (Ctrl+Tab) by raising your index and middle fingers
+- Click by high five
+- Open League of legends by opening your 3 index, middle and ring fingers
+- Switch tabs (Ctrl+Tab) by raising your thumbs and then selecting the tab by pinky finger
 
 ## Requirements
 
@@ -32,10 +32,11 @@ python app.py
 
 2. Position yourself in front of your webcam
 3. Use the following gestures:
-   - Move cursor: Point with your index finger
-   - Click: Raise your pinky finger
-   - Open Notepad: Snap your thumb and middle finger together
-   - Switch tabs: Raise your index and middle fingers
+- Move cursor using your index finger
+- Click by high five
+- Open League of legends by opening your 3 index, middle and ring fingers
+- Switch tabs (Ctrl+Tab) by raising your thumbs and then selecting the tab by pinky finger
+
 4. Press 'q' to quit the application
 
 ## Notes
